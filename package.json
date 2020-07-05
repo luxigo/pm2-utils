@@ -1,0 +1,15 @@
+{
+  "name": "pm2-utils",
+  "version": "1.0.0",
+  "description": "pm2 client utilities",
+  "main": "pm2-utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.miprosoft.com/facepass/pm2-utils.git"
+  },
+  "author": "luc.deschenaux@freesurf.ch",
+  "license": "AGPL-3.0"
+}
