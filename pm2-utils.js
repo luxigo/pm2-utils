@@ -50,7 +50,7 @@ module.exports=function()  {
     }
     var o=options||{};
     if ('string' == typeof o.name) {
-      o.name==[o.name];
+      o.name=[o.name];
     }
     callback=callback||createPromiseCallback();
     pm2.connect(function(err){
